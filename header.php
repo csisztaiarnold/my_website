@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta property="og:url" content="http://www.idevele.com/" />
+    <meta property="og:url" content="https://www.idevele.com/" />
     <meta property="og:description" content="A professional web developer since 2002. Frontend, backend, SEO, content management and consulting." />
     <meta property="og:site_name" content="Arnold Csisztai - Web Developer"/>
     <meta property="og:image" content="http://www.idevele.com/assets/img/arnold_csisztai.jpg" />
