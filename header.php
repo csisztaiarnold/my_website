@@ -6,7 +6,7 @@
     <meta property="og:url" content="https://www.idevele.com/" />
     <meta property="og:description" content="A professional web developer since 2002. Frontend, backend, SEO, content management and consulting." />
     <meta property="og:site_name" content="Arnold Csisztai - Web Developer"/>
-    <meta property="og:image" content="http://www.idevele.com/assets/img/arnold_csisztai.jpg" />
+    <meta property="og:image" content="https://www.idevele.com/assets/img/arnold_csisztai.jpg" />
     <meta name="description" content="A professional web developer since 2002. Frontend, backend, SEO, content management and consulting.">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,700,300&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
