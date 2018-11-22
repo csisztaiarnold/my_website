@@ -195,7 +195,7 @@ p.separator {
     opacity: 0.5;
     padding-top: 20px;
 
-    @media screen and ( max-height: 550px ) {
+    @media screen and ( max-width: 900px ) {
       display: none;
     }
   }
@@ -205,38 +205,26 @@ p.separator {
   }
 
   #title-container {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    z-index: 3;
+    display: none;
 
     h1, h2 {
       color: rgba(255, 255, 255, 0.9);
       font-weight: 100;
-      font-size: 62px;
+      font-size: 42px;
       letter-spacing: 7px;
       opacity: 0;
       animation: fade-in 2000ms ease-in-out 1000ms forwards;
       transition: font-size 1s ease;
-
-      @media screen and ( max-width: 750px ) {
-        font-size: 42px;
-      }
-    }
-
-    h1 {
-      transition: margin 1s ease;
     }
 
     h2 {
-      font-size: 30px;
+      font-size: 22px;
       color: rgba(255, 255, 255, 0.8);
       letter-spacing: normal;
+    }
 
-      @media screen and ( max-width: 750px ) {
-        font-size: 22px;
-      }
+    @media screen and ( max-width: 900px ) {
+      display: block
     }
   }
 }
