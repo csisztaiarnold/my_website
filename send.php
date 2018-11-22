@@ -8,7 +8,7 @@ include('email_send.php');
 
     <div id="graphics-layer"></div>
 
-    <div id="title-container">
+    <div id="title-container-email-send">
         <br /><br />
         <h1>thank you!</h1>
         <h2>your message has been sent. get <a href="index.php" title="Back">back</a></h2>

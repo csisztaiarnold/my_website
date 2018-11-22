@@ -204,7 +204,7 @@ p.separator {
     z-index: 2;
   }
 
-  #title-container {
+  #title-container, #title-container-email-send {
     display: none;
 
     h1, h2 {
@@ -227,6 +227,10 @@ p.separator {
       display: block
     }
   }
+}
+
+#title-container-email-send {
+  display: block !important;
 }
 
 #title-container {

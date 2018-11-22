@@ -72,7 +72,7 @@
 
         <p class="separator"><?php echo $separator; ?></p>
 
-        <p>In my free time I am/was usually busy with the <a href="https://en.wikipedia.org/wiki/Demoscene" title="Demoscene">demoscene</a>, pixel art, <a href="https://www.deviantart.com/arnoldcsisztai" title="My DeviantArt Profile">drawing/painting</a>, cycling, <a href="https://www.youtube.com/watch?v=UMTiX7mO_vI" title="Brewing beer">brewing beer</a>, <a href="http://www.mapmyrun.com/profile/35724259/" title="My MapMyRun Profile">running</a>, <a href="assets/img/dragonboating.jpg" title="Dragonboating">dragon boating</a>, <a href="http://www.amcharts.com/visited_countries/#AT,BE,BA,BG,HR,CZ,DE,HU,IT,XK,MK,ME,NL,PL,RS,SK,SI" title="Places I visited">travelling/hiking</a>, <a href="http://172.104.236.228:8080/" title="My Favorite Quotes From My Favorite Authors">books</a>, or movies…</p>
+        <p>In my free time I am/was usually busy with the <a href="https://en.wikipedia.org/wiki/Demoscene" title="Demoscene">demoscene</a>, pixel art, <a href="https://www.deviantart.com/arnoldcsisztai" title="My DeviantArt Profile">drawing/painting</a>, cycling, <a href="https://www.youtube.com/watch?v=UMTiX7mO_vI" title="Brewing beer">brewing beer</a>, <a href="http://www.mapmyrun.com/profile/35724259/" title="My MapMyRun Profile">running</a>, <a href="assets/img/dragonboating.jpg" title="Dragonboating">dragon boating</a>, <a href="http://www.amcharts.com/visited_countries/#AT,BE,BA,BG,HR,CZ,DE,HU,IT,XK,MK,ME,NL,PL,RS,SK,SI" title="Places I visited">travelling/hiking</a>, <a href="http://172.104.236.228:8080/" title="My Favorite Quotes From My Favorite Authors">books</a>, or <a href="https://mymdbdev.idevele.com" title="My Personal Movie Db">movies</a>…</p>
 
         <p class="separator"><?php echo $separator; ?></p>
 
@@ -367,7 +367,7 @@
             </p>
 
             <form action="send.php" method="post">
-                <input type="email" class="text" name="message" placeholder="Your E-Mail address" required /><br />
+                <input type="email" class="text" name="email" placeholder="Your E-Mail address" required /><br />
                 <input type="text" class="text" name="name" placeholder="Your name" required /><br />
                 <textarea placeholder="Your message" required name="message"></textarea><br />
                 <input type="submit" class="submit" name="submit" placeholder="Send message" />
