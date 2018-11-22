@@ -114,7 +114,7 @@
             <h2><span class="star">★</span> Frameworks</h2>
 
             <h3>⋆ CodeIgniter</h3>
-            <p>My first dive into PHP frameworks started with CodeIgniter almost from its initial release, and I have kept using it till 2012-2013. Made a lot of custom solutions and a CMS/E-commerce engine with the help of it (the engine is still used as a Central European webshop base by OfficeShoes with 600.000-1.000.000 daily requests, and also by one of the biggest Serbian gadget shops, Pokloni.com with 35.000-50.000k requests per day).</p>
+            <p>My first dive into PHP frameworks started with CodeIgniter almost from its initial release, and I have kept using it till 2012-2013. Made a lot of custom solutions and a CMS/E-commerce engine with the help of it (the engine is still used as a Central European webshop base by <a href="https://www.officeshoes.hu" title="OfficeShoes">OfficeShoes</a> with 600.000-1.000.000 daily requests, and also by one of the biggest Serbian gadget shops, <a href="https://www.pokloni.com" title="Pokloni">Pokloni</a> with 35.000-50.000k requests per day).</p>
 
             <h3>⋆ Laravel/Lumen</h3>
             <p>After CodeIgniter has become out-of-date and archaic, I have moved forward to the absolutely lovely Laravel (4.0 at the time when I first encountered with it), and it remained my base web framework of choice. Accordingly, if I’m in a need for a microframework, I prefer Lumen.</p>
