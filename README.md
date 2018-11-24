@@ -11,5 +11,5 @@ Some not too interesting tidbits:
 - I have found the viewport check code laying in my code-snippets folder, so only God knows who made it
 - The remarkably sophisticated random bubbling "effect" in the header was made by me
 - The extraordinarily exciting "design" was made also by me
-- Only tested Chrome and Firefox (both Linux/Debian versions) 
+- So far, only tested Chrome and Firefox (Linux/Debian versions) and Edge
 - Used VSC for putting the code together
